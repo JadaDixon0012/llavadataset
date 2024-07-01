@@ -1,0 +1,4202 @@
+[
+    {
+        "id": "f1e507e4-8cf4-45f1-91e8-79a8c9ffff5c",
+        "image": "f1e507e4-8cf4-45f1-91e8-79a8c9ffff5c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $7.50"
+            }
+        ]
+    },
+    {
+        "id": "476a7537-b7da-4c8d-a50b-9ef635ab339f",
+        "image": "476a7537-b7da-4c8d-a50b-9ef635ab339f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $212.09"
+            }
+        ]
+    },
+    {
+        "id": "7b016e95-b9cb-4ad9-bc12-45e726b39016",
+        "image": "7b016e95-b9cb-4ad9-bc12-45e726b39016.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $1606.67"
+            }
+        ]
+    },
+    {
+        "id": "aa3491bd-212c-4d09-837e-44bf32cfd101",
+        "image": "aa3491bd-212c-4d09-837e-44bf32cfd101.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $494.96"
+            }
+        ]
+    },
+    {
+        "id": "1c43aea0-7d8e-4881-ace0-6e1c6ea6f1d8",
+        "image": "1c43aea0-7d8e-4881-ace0-6e1c6ea6f1d8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $57483.07"
+            }
+        ]
+    },
+    {
+        "id": "ac267457-9287-4cc5-a382-5b19cba3ff3f",
+        "image": "ac267457-9287-4cc5-a382-5b19cba3ff3f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $160"
+            }
+        ]
+    },
+    {
+        "id": "fe826a2b-4b6a-45e9-bd0a-0d7547e8916a",
+        "image": "fe826a2b-4b6a-45e9-bd0a-0d7547e8916a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $681.81"
+            }
+        ]
+    },
+    {
+        "id": "e2424a1c-74b6-45c8-ac67-19f28bef75c0",
+        "image": "e2424a1c-74b6-45c8-ac67-19f28bef75c0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $366.59"
+            }
+        ]
+    },
+    {
+        "id": "5e6d4823-65e7-4349-bbb2-5aa115b9ea18",
+        "image": "5e6d4823-65e7-4349-bbb2-5aa115b9ea18.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $61429.21"
+            }
+        ]
+    },
+    {
+        "id": "b999260b-b81e-48ec-bec5-f4f0af41b2a3",
+        "image": "b999260b-b81e-48ec-bec5-f4f0af41b2a3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $1436.78"
+            }
+        ]
+    },
+    {
+        "id": "4cacaedf-c751-49f4-b498-3db767402ef6",
+        "image": "4cacaedf-c751-49f4-b498-3db767402ef6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $6004.31"
+            }
+        ]
+    },
+    {
+        "id": "09d53b5a-c894-4364-a660-6449fc8bf5d9",
+        "image": "09d53b5a-c894-4364-a660-6449fc8bf5d9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $27.57"
+            }
+        ]
+    },
+    {
+        "id": "49dd1807-763a-4848-9c52-a15f79ca93ee",
+        "image": "49dd1807-763a-4848-9c52-a15f79ca93ee.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $6016.84"
+            }
+        ]
+    },
+    {
+        "id": "afcd6905-c703-4826-93b2-d48891a36907",
+        "image": "afcd6905-c703-4826-93b2-d48891a36907.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $75.61"
+            }
+        ]
+    },
+    {
+        "id": "1720581e-098d-4222-a92a-0d1c244a9708",
+        "image": "1720581e-098d-4222-a92a-0d1c244a9708.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $3.96"
+            }
+        ]
+    },
+    {
+        "id": "4c4fb3f2-5f28-4464-a75b-b18f55d41058",
+        "image": "4c4fb3f2-5f28-4464-a75b-b18f55d41058.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $5.94"
+            }
+        ]
+    },
+    {
+        "id": "d6d9da50-5af7-438e-ab8f-cdba94242bfc",
+        "image": "d6d9da50-5af7-438e-ab8f-cdba94242bfc.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $14.67"
+            }
+        ]
+    },
+    {
+        "id": "c72f3d61-814c-4fcf-8866-c80dc00ae624",
+        "image": "c72f3d61-814c-4fcf-8866-c80dc00ae624.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $48517.63"
+            }
+        ]
+    },
+    {
+        "id": "33705234-6ccf-4073-83d3-abfe6ea6fec9",
+        "image": "33705234-6ccf-4073-83d3-abfe6ea6fec9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $32338.18"
+            }
+        ]
+    },
+    {
+        "id": "85f6d0c3-041b-4e95-b7f7-9e56089317cc",
+        "image": "85f6d0c3-041b-4e95-b7f7-9e56089317cc.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $2816.88"
+            }
+        ]
+    },
+    {
+        "id": "83a1bee4-b3c7-4295-b1d1-832e57b0035f",
+        "image": "83a1bee4-b3c7-4295-b1d1-832e57b0035f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $50.00"
+            }
+        ]
+    },
+    {
+        "id": "5f0db9d5-2f4e-4a3e-848d-e3b01ba13c49",
+        "image": "5f0db9d5-2f4e-4a3e-848d-e3b01ba13c49.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $849.37"
+            }
+        ]
+    },
+    {
+        "id": "47f84283-7aae-4129-9419-e12aaf5cf724",
+        "image": "47f84283-7aae-4129-9419-e12aaf5cf724.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $121.12"
+            }
+        ]
+    },
+    {
+        "id": "d2a84eab-9067-4da8-9fc1-a1f508c00c53",
+        "image": "d2a84eab-9067-4da8-9fc1-a1f508c00c53.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $36"
+            }
+        ]
+    },
+    {
+        "id": "d0145d54-a051-4d94-8439-499dfcb09782",
+        "image": "d0145d54-a051-4d94-8439-499dfcb09782.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $205.50"
+            }
+        ]
+    },
+    {
+        "id": "97bb9895-0685-4172-8dda-7863d81f5346",
+        "image": "97bb9895-0685-4172-8dda-7863d81f5346.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $36.99"
+            }
+        ]
+    },
+    {
+        "id": "bd203697-f29d-4b01-9a3b-4fdedac1c734",
+        "image": "bd203697-f29d-4b01-9a3b-4fdedac1c734.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $1055.46"
+            }
+        ]
+    },
+    {
+        "id": "c1d6e6a4-aede-4a97-a6c0-d45090d3f708",
+        "image": "c1d6e6a4-aede-4a97-a6c0-d45090d3f708.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $21676.43"
+            }
+        ]
+    },
+    {
+        "id": "fcc98187-8013-415a-ac68-68295fce2882",
+        "image": "fcc98187-8013-415a-ac68-68295fce2882.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $36210.72"
+            }
+        ]
+    },
+    {
+        "id": "667b07dd-c5b6-473e-8ae7-99d443d9615f",
+        "image": "667b07dd-c5b6-473e-8ae7-99d443d9615f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $9368.88"
+            }
+        ]
+    },
+    {
+        "id": "bf5b6819-1730-441f-baec-4e2f6b33d4b7",
+        "image": "bf5b6819-1730-441f-baec-4e2f6b33d4b7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $2521.04"
+            }
+        ]
+    },
+    {
+        "id": "2e1aeb55-0e5a-4da7-a134-e6220e4f1c03",
+        "image": "2e1aeb55-0e5a-4da7-a134-e6220e4f1c03.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $748.24"
+            }
+        ]
+    },
+    {
+        "id": "b213cef5-3aa4-4685-b51b-a8d4b7f9d7d4",
+        "image": "b213cef5-3aa4-4685-b51b-a8d4b7f9d7d4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $897.52"
+            }
+        ]
+    },
+    {
+        "id": "12a05f95-fb27-4aea-8754-33355e0515cb",
+        "image": "12a05f95-fb27-4aea-8754-33355e0515cb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $1369.50"
+            }
+        ]
+    },
+    {
+        "id": "6d0a8593-2584-4e73-9d20-4d27ef910c71",
+        "image": "6d0a8593-2584-4e73-9d20-4d27ef910c71.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $280.50"
+            }
+        ]
+    },
+    {
+        "id": "514592df-f2d6-4b58-b94c-5b95b0ce2f7f",
+        "image": "514592df-f2d6-4b58-b94c-5b95b0ce2f7f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $74237.40"
+            }
+        ]
+    },
+    {
+        "id": "4d8a5eaa-1bf2-49a5-9134-4f54f560fa37",
+        "image": "4d8a5eaa-1bf2-49a5-9134-4f54f560fa37.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $48253.60"
+            }
+        ]
+    },
+    {
+        "id": "960f4b35-f48f-404c-912a-b9a2ab6f4bcb",
+        "image": "960f4b35-f48f-404c-912a-b9a2ab6f4bcb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $0.20"
+            }
+        ]
+    },
+    {
+        "id": "098b765f-b35d-4029-aef1-43a05dd1748c",
+        "image": "098b765f-b35d-4029-aef1-43a05dd1748c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $5906.47"
+            }
+        ]
+    },
+    {
+        "id": "59f6f45a-dc85-407a-8978-e58fd8cd23f3",
+        "image": "59f6f45a-dc85-407a-8978-e58fd8cd23f3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $110.39"
+            }
+        ]
+    },
+    {
+        "id": "07540c0d-617e-49db-b8e1-d47dc68deb11",
+        "image": "07540c0d-617e-49db-b8e1-d47dc68deb11.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $7.19"
+            }
+        ]
+    },
+    {
+        "id": "de66d7b2-e386-4a7a-b142-be25e7a2d0a7",
+        "image": "de66d7b2-e386-4a7a-b142-be25e7a2d0a7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $16863.96"
+            }
+        ]
+    },
+    {
+        "id": "a3982a55-eec4-4fca-8ebd-fda70f4b31a4",
+        "image": "a3982a55-eec4-4fca-8ebd-fda70f4b31a4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $1"
+            }
+        ]
+    },
+    {
+        "id": "369be6bf-154a-4037-8f62-6d9557a6142c",
+        "image": "369be6bf-154a-4037-8f62-6d9557a6142c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $261.95"
+            }
+        ]
+    },
+    {
+        "id": "ae9404de-adaf-41b8-91c3-5901408dbcdd",
+        "image": "ae9404de-adaf-41b8-91c3-5901408dbcdd.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $323.84"
+            }
+        ]
+    },
+    {
+        "id": "f60098a1-854a-402a-8740-cda7aa799a0f",
+        "image": "f60098a1-854a-402a-8740-cda7aa799a0f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $1002.64"
+            }
+        ]
+    },
+    {
+        "id": "88bc20da-cf86-4c50-bc3b-15af8e658502",
+        "image": "88bc20da-cf86-4c50-bc3b-15af8e658502.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $961.21"
+            }
+        ]
+    },
+    {
+        "id": "4a2e4541-6951-4d24-a0cd-184b1bf0168f",
+        "image": "4a2e4541-6951-4d24-a0cd-184b1bf0168f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $3729.94"
+            }
+        ]
+    },
+    {
+        "id": "f02aa946-b3d8-42ab-a174-d33c1b658ff2",
+        "image": "f02aa946-b3d8-42ab-a174-d33c1b658ff2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $8275.87"
+            }
+        ]
+    },
+    {
+        "id": "42a614f3-d114-4d3d-8d10-44333ed8aaba",
+        "image": "42a614f3-d114-4d3d-8d10-44333ed8aaba.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $276.60"
+            }
+        ]
+    },
+    {
+        "id": "43f0dac3-522b-4169-9414-b1b7edd9863b",
+        "image": "43f0dac3-522b-4169-9414-b1b7edd9863b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $57.90"
+            }
+        ]
+    },
+    {
+        "id": "78dc9f80-aac1-4015-9ade-751315bfc2e0",
+        "image": "78dc9f80-aac1-4015-9ade-751315bfc2e0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $0.40"
+            }
+        ]
+    },
+    {
+        "id": "f6009322-b2d3-4589-97f2-97918d09bd2a",
+        "image": "f6009322-b2d3-4589-97f2-97918d09bd2a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $569.69"
+            }
+        ]
+    },
+    {
+        "id": "fbebd704-43ee-40df-a2bc-7b8313197766",
+        "image": "fbebd704-43ee-40df-a2bc-7b8313197766.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $104.90"
+            }
+        ]
+    },
+    {
+        "id": "e9846813-1387-45b9-bea3-97de1a60a882",
+        "image": "e9846813-1387-45b9-bea3-97de1a60a882.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $72035.24"
+            }
+        ]
+    },
+    {
+        "id": "9db5cca0-7fbb-481a-800e-1c0824078dd1",
+        "image": "9db5cca0-7fbb-481a-800e-1c0824078dd1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $640.15"
+            }
+        ]
+    },
+    {
+        "id": "94bc6db0-ad56-4348-9ec2-4d18a6df2b94",
+        "image": "94bc6db0-ad56-4348-9ec2-4d18a6df2b94.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $308.90"
+            }
+        ]
+    },
+    {
+        "id": "12af4ebc-8034-4845-b53d-e2f1b2856dec",
+        "image": "12af4ebc-8034-4845-b53d-e2f1b2856dec.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $4.49"
+            }
+        ]
+    },
+    {
+        "id": "6a2e12bf-f3fa-4df6-bfe3-49f4dc18b447",
+        "image": "6a2e12bf-f3fa-4df6-bfe3-49f4dc18b447.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $361.96"
+            }
+        ]
+    },
+    {
+        "id": "0f0f8c82-e002-4701-87c5-b35e6283b8ac",
+        "image": "0f0f8c82-e002-4701-87c5-b35e6283b8ac.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $225.19"
+            }
+        ]
+    },
+    {
+        "id": "0d8ae219-50ca-44d0-bf0e-7f7d1e34a965",
+        "image": "0d8ae219-50ca-44d0-bf0e-7f7d1e34a965.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $255.48"
+            }
+        ]
+    },
+    {
+        "id": "c58c2009-35f0-4007-a8df-b326136a9011",
+        "image": "c58c2009-35f0-4007-a8df-b326136a9011.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $29.37"
+            }
+        ]
+    },
+    {
+        "id": "6e762577-05fe-4d67-835e-f60a6a7acd05",
+        "image": "6e762577-05fe-4d67-835e-f60a6a7acd05.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $2416.16"
+            }
+        ]
+    },
+    {
+        "id": "4277139e-70c2-446f-8092-c03ac6acec48",
+        "image": "4277139e-70c2-446f-8092-c03ac6acec48.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $19932"
+            }
+        ]
+    },
+    {
+        "id": "d14a2cf2-dd1b-4c8a-ae16-7cbbd95ed338",
+        "image": "d14a2cf2-dd1b-4c8a-ae16-7cbbd95ed338.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $1267.95"
+            }
+        ]
+    },
+    {
+        "id": "e771d43f-8114-4336-aaa2-0ac63ab5288c",
+        "image": "e771d43f-8114-4336-aaa2-0ac63ab5288c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $368.67"
+            }
+        ]
+    },
+    {
+        "id": "ad3fb43a-af16-4597-92c6-f3eef6d00b98",
+        "image": "ad3fb43a-af16-4597-92c6-f3eef6d00b98.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $35.85"
+            }
+        ]
+    },
+    {
+        "id": "9dfb4256-cc19-4d30-90a6-c10bdb62695a",
+        "image": "9dfb4256-cc19-4d30-90a6-c10bdb62695a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $42066.72"
+            }
+        ]
+    },
+    {
+        "id": "68644d46-2135-4a3c-a6de-5d9612befefe",
+        "image": "68644d46-2135-4a3c-a6de-5d9612befefe.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $61.96"
+            }
+        ]
+    },
+    {
+        "id": "e65ecfab-41d7-4c93-a79e-94f251c96661",
+        "image": "e65ecfab-41d7-4c93-a79e-94f251c96661.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $27.78"
+            }
+        ]
+    },
+    {
+        "id": "2820cb35-a059-413a-aedd-51b2735a1272",
+        "image": "2820cb35-a059-413a-aedd-51b2735a1272.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $38789.83"
+            }
+        ]
+    },
+    {
+        "id": "6707b990-9f46-4a7a-8213-ca6b422f2278",
+        "image": "6707b990-9f46-4a7a-8213-ca6b422f2278.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $223.01"
+            }
+        ]
+    },
+    {
+        "id": "bf49ea3e-f8e5-4a90-bf92-62b6dcbeda76",
+        "image": "bf49ea3e-f8e5-4a90-bf92-62b6dcbeda76.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $32.20"
+            }
+        ]
+    },
+    {
+        "id": "16d4f50b-c252-40ce-93e1-59da8d72581a",
+        "image": "16d4f50b-c252-40ce-93e1-59da8d72581a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $132.97"
+            }
+        ]
+    },
+    {
+        "id": "5edba4b2-65b0-42f3-bff4-6e08125a054b",
+        "image": "5edba4b2-65b0-42f3-bff4-6e08125a054b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $3120.51"
+            }
+        ]
+    },
+    {
+        "id": "71244197-1254-4dc3-8a1e-96b0b20604e6",
+        "image": "71244197-1254-4dc3-8a1e-96b0b20604e6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $5296.43"
+            }
+        ]
+    },
+    {
+        "id": "ed32df1b-f841-4b86-8b3b-cca2a053514f",
+        "image": "ed32df1b-f841-4b86-8b3b-cca2a053514f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $15173.65"
+            }
+        ]
+    },
+    {
+        "id": "3ca9990f-526b-46b9-a36c-388e36766bc8",
+        "image": "3ca9990f-526b-46b9-a36c-388e36766bc8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $500.29"
+            }
+        ]
+    },
+    {
+        "id": "bfee58f0-80aa-48c1-b8f8-8597c6e25118",
+        "image": "bfee58f0-80aa-48c1-b8f8-8597c6e25118.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $3762.43"
+            }
+        ]
+    },
+    {
+        "id": "883fbf6f-14df-4578-84e4-0aaec0a4b9cb",
+        "image": "883fbf6f-14df-4578-84e4-0aaec0a4b9cb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $2.50"
+            }
+        ]
+    },
+    {
+        "id": "f475f0c9-2f85-4f35-804d-9d4404429ed7",
+        "image": "f475f0c9-2f85-4f35-804d-9d4404429ed7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $111.31"
+            }
+        ]
+    },
+    {
+        "id": "1e98c284-f915-4edf-be8f-2db9471a5660",
+        "image": "1e98c284-f915-4edf-be8f-2db9471a5660.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $58.69"
+            }
+        ]
+    },
+    {
+        "id": "2a301c26-416d-494c-9ff6-47daff7a9e3f",
+        "image": "2a301c26-416d-494c-9ff6-47daff7a9e3f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $1433.11"
+            }
+        ]
+    },
+    {
+        "id": "e170283c-de60-44b0-8001-096484ead598",
+        "image": "e170283c-de60-44b0-8001-096484ead598.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $8.31"
+            }
+        ]
+    },
+    {
+        "id": "fdaef2c5-5763-44a0-a373-b48c95f09832",
+        "image": "fdaef2c5-5763-44a0-a373-b48c95f09832.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $1165.90"
+            }
+        ]
+    },
+    {
+        "id": "4b633e1f-f5ef-417d-80f7-5af4fe4442ac",
+        "image": "4b633e1f-f5ef-417d-80f7-5af4fe4442ac.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $26764.68"
+            }
+        ]
+    },
+    {
+        "id": "6d4379d0-3ac2-44d5-a6a3-d44632b9dd14",
+        "image": "6d4379d0-3ac2-44d5-a6a3-d44632b9dd14.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $10800"
+            }
+        ]
+    },
+    {
+        "id": "2d6272c9-0956-4aad-ab92-1595e72af113",
+        "image": "2d6272c9-0956-4aad-ab92-1595e72af113.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $422.55"
+            }
+        ]
+    },
+    {
+        "id": "dbdf6fd7-bc0d-4c54-b7ae-66e6e9671520",
+        "image": "dbdf6fd7-bc0d-4c54-b7ae-66e6e9671520.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $125.94"
+            }
+        ]
+    },
+    {
+        "id": "19ebe8b5-bf84-4177-9b3a-0e2c9be70039",
+        "image": "19ebe8b5-bf84-4177-9b3a-0e2c9be70039.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is 686.75"
+            }
+        ]
+    },
+    {
+        "id": "d03b3b85-a6bc-450a-88c1-eeb115f516e6",
+        "image": "d03b3b85-a6bc-450a-88c1-eeb115f516e6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $4916.98"
+            }
+        ]
+    },
+    {
+        "id": "ec2d4acb-d18c-4add-bdad-57732809422c",
+        "image": "ec2d4acb-d18c-4add-bdad-57732809422c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $28929.32"
+            }
+        ]
+    },
+    {
+        "id": "069ba844-30b6-4a0d-ae51-e1ffbcd5bd52",
+        "image": "069ba844-30b6-4a0d-ae51-e1ffbcd5bd52.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $131.99"
+            }
+        ]
+    },
+    {
+        "id": "24cc9619-4e13-4c61-9b29-159d23640945",
+        "image": "24cc9619-4e13-4c61-9b29-159d23640945.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $995.96"
+            }
+        ]
+    },
+    {
+        "id": "5c5bb1fa-9da5-4753-ba4d-ef519227caa7",
+        "image": "5c5bb1fa-9da5-4753-ba4d-ef519227caa7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $249.89"
+            }
+        ]
+    },
+    {
+        "id": "6cbdc6de-c6f3-43a8-855d-8d22754d0ce9",
+        "image": "6cbdc6de-c6f3-43a8-855d-8d22754d0ce9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $873.90"
+            }
+        ]
+    },
+    {
+        "id": "03493fe7-3743-40c8-b642-c513b4f5e8ee",
+        "image": "03493fe7-3743-40c8-b642-c513b4f5e8ee.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $531.35"
+            }
+        ]
+    },
+    {
+        "id": "a77a91d2-cd38-4dab-903c-cf95f3d20cbc",
+        "image": "a77a91d2-cd38-4dab-903c-cf95f3d20cbc.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $150.69 "
+            }
+        ]
+    },
+    {
+        "id": "1a58512c-7c00-47b7-b496-c70af62b0d6d",
+        "image": "1a58512c-7c00-47b7-b496-c70af62b0d6d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $93.24"
+            }
+        ]
+    },
+    {
+        "id": "61790469-5295-4c3f-8d16-fb8df191838c",
+        "image": "61790469-5295-4c3f-8d16-fb8df191838c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $15.39"
+            }
+        ]
+    },
+    {
+        "id": "bf1a377c-ae7c-4da9-89f3-436cb384d46f",
+        "image": "bf1a377c-ae7c-4da9-89f3-436cb384d46f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $48.00"
+            }
+        ]
+    },
+    {
+        "id": "df9fa1ef-da5a-48f4-b1ea-7e64979fa04a",
+        "image": "df9fa1ef-da5a-48f4-b1ea-7e64979fa04a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $103986.80"
+            }
+        ]
+    },
+    {
+        "id": "b16fc1ab-31eb-4631-adbb-f2bfa9f2432b",
+        "image": "b16fc1ab-31eb-4631-adbb-f2bfa9f2432b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $40677.81"
+            }
+        ]
+    },
+    {
+        "id": "85b0fbb5-7bd4-4df4-9f3b-0c6a3e941440",
+        "image": "85b0fbb5-7bd4-4df4-9f3b-0c6a3e941440.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $9379.05"
+            }
+        ]
+    },
+    {
+        "id": "dcf31cea-3848-4357-b998-7efc84c71856",
+        "image": "dcf31cea-3848-4357-b998-7efc84c71856.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $331.99"
+            }
+        ]
+    },
+    {
+        "id": "192593cc-b069-4120-91e3-a3d21597442a",
+        "image": "192593cc-b069-4120-91e3-a3d21597442a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $76.89"
+            }
+        ]
+    },
+    {
+        "id": "c4cc67d5-9513-4626-bf1e-6d495cc2547f",
+        "image": "c4cc67d5-9513-4626-bf1e-6d495cc2547f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $172.71"
+            }
+        ]
+    },
+    {
+        "id": "6c7468c0-b9a5-4815-b371-e958416f6564",
+        "image": "6c7468c0-b9a5-4815-b371-e958416f6564.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $10.64"
+            }
+        ]
+    },
+    {
+        "id": "c8fea634-9de3-4295-a442-a41d4328c18e",
+        "image": "c8fea634-9de3-4295-a442-a41d4328c18e.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $3046.86"
+            }
+        ]
+    },
+    {
+        "id": "18ab9728-89c3-40ab-96c3-8c88c5257183",
+        "image": "18ab9728-89c3-40ab-96c3-8c88c5257183.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $4334.11"
+            }
+        ]
+    },
+    {
+        "id": "b0d3afda-a87f-4e49-898c-543e96b8b88d",
+        "image": "b0d3afda-a87f-4e49-898c-543e96b8b88d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $8445.70"
+            }
+        ]
+    },
+    {
+        "id": "2c1233d0-b1b0-4b3c-8c55-4b4b674e9869",
+        "image": "2c1233d0-b1b0-4b3c-8c55-4b4b674e9869.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $11017.83"
+            }
+        ]
+    },
+    {
+        "id": "604bb4d8-8d76-452d-b318-c5e03f9dfc0c",
+        "image": "604bb4d8-8d76-452d-b318-c5e03f9dfc0c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $8.79"
+            }
+        ]
+    },
+    {
+        "id": "07e4a790-7eab-46da-b1f9-37ef8334523c",
+        "image": "07e4a790-7eab-46da-b1f9-37ef8334523c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $1523.45"
+            }
+        ]
+    },
+    {
+        "id": "0b95183d-cc95-413f-8712-c558c5850ba0",
+        "image": "0b95183d-cc95-413f-8712-c558c5850ba0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $11479.77"
+            }
+        ]
+    },
+    {
+        "id": "2b94c8c3-938a-4679-81e9-48722d525e8c",
+        "image": "2b94c8c3-938a-4679-81e9-48722d525e8c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $409.58"
+            }
+        ]
+    },
+    {
+        "id": "70278cdf-2421-4359-941c-ca4ba5a29066",
+        "image": "70278cdf-2421-4359-941c-ca4ba5a29066.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $61.44"
+            }
+        ]
+    },
+    {
+        "id": "ded7d282-1cbf-47dc-b6ff-aa136fac2f3d",
+        "image": "ded7d282-1cbf-47dc-b6ff-aa136fac2f3d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $536.31"
+            }
+        ]
+    },
+    {
+        "id": "b182220a-8420-41ac-aa51-9c71bfcfe7e2",
+        "image": "b182220a-8420-41ac-aa51-9c71bfcfe7e2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $23454.63"
+            }
+        ]
+    },
+    {
+        "id": "8c1688ea-0ddf-4bab-a819-832a50deee56",
+        "image": "8c1688ea-0ddf-4bab-a819-832a50deee56.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $14.00"
+            }
+        ]
+    },
+    {
+        "id": "a8e0d6c1-8132-4a36-88b8-53028aefa375",
+        "image": "a8e0d6c1-8132-4a36-88b8-53028aefa375.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $14.00"
+            }
+        ]
+    },
+    {
+        "id": "06d7ae9b-746a-49b9-87da-610f6f9f745b",
+        "image": "06d7ae9b-746a-49b9-87da-610f6f9f745b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $10.70"
+            }
+        ]
+    },
+    {
+        "id": "51fed538-1be0-490a-a2ae-2b0ecbb0305e",
+        "image": "51fed538-1be0-490a-a2ae-2b0ecbb0305e.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $295.55"
+            }
+        ]
+    },
+    {
+        "id": "b7252b1c-1325-40cc-8762-9f1bac9a950d",
+        "image": "b7252b1c-1325-40cc-8762-9f1bac9a950d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $3867.63"
+            }
+        ]
+    },
+    {
+        "id": "4edaf6dc-8149-4831-a294-c4785d764e2c",
+        "image": "4edaf6dc-8149-4831-a294-c4785d764e2c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $18710.63"
+            }
+        ]
+    },
+    {
+        "id": "18af4153-b89b-4123-aa0f-ab02252b894e",
+        "image": "18af4153-b89b-4123-aa0f-ab02252b894e.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $515.25 "
+            }
+        ]
+    },
+    {
+        "id": "e28faae4-c1ea-4756-a8d8-709c94f680ec",
+        "image": "e28faae4-c1ea-4756-a8d8-709c94f680ec.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $2854.50"
+            }
+        ]
+    },
+    {
+        "id": "30602fc5-9e31-4013-9aff-a5a090b3df93",
+        "image": "30602fc5-9e31-4013-9aff-a5a090b3df93.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $416.69"
+            }
+        ]
+    },
+    {
+        "id": "553cad53-b449-4c8f-b466-109f37818d13",
+        "image": "553cad53-b449-4c8f-b466-109f37818d13.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $48682.50"
+            }
+        ]
+    },
+    {
+        "id": "d0093429-828d-421a-9e54-7573c126cf3c",
+        "image": "d0093429-828d-421a-9e54-7573c126cf3c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $19.77"
+            }
+        ]
+    },
+    {
+        "id": "94cc7d3c-e7d7-4e80-99c4-53bdd8ed3634",
+        "image": "94cc7d3c-e7d7-4e80-99c4-53bdd8ed3634.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $1831.85"
+            }
+        ]
+    },
+    {
+        "id": "3dab81bd-04e1-4dea-8d61-3f11ae6fb875",
+        "image": "3dab81bd-04e1-4dea-8d61-3f11ae6fb875.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $4"
+            }
+        ]
+    },
+    {
+        "id": "71c17e9d-1c97-474c-a2bd-1d48593f7017",
+        "image": "71c17e9d-1c97-474c-a2bd-1d48593f7017.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $24173.78 "
+            }
+        ]
+    },
+    {
+        "id": "d2d3fb87-e3b9-48fe-aef8-75b873564541",
+        "image": "d2d3fb87-e3b9-48fe-aef8-75b873564541.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $39.49"
+            }
+        ]
+    },
+    {
+        "id": "74a571e9-2c8a-46a7-be9c-21a6ec46c7de",
+        "image": "74a571e9-2c8a-46a7-be9c-21a6ec46c7de.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $2413.97"
+            }
+        ]
+    },
+    {
+        "id": "b1856a72-0064-4ef3-8e83-7a4830b08a73",
+        "image": "b1856a72-0064-4ef3-8e83-7a4830b08a73.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $1075.00"
+            }
+        ]
+    },
+    {
+        "id": "417b5a83-2bee-4807-a4b4-38efd2cdd85f",
+        "image": "417b5a83-2bee-4807-a4b4-38efd2cdd85f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $330.99"
+            }
+        ]
+    },
+    {
+        "id": "0de5feda-30f5-4afe-85eb-9beb6a09c019",
+        "image": "0de5feda-30f5-4afe-85eb-9beb6a09c019.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $1627.96 "
+            }
+        ]
+    },
+    {
+        "id": "f05a9686-0abf-4f16-b8c6-08d0c6ee4d91",
+        "image": "f05a9686-0abf-4f16-b8c6-08d0c6ee4d91.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $4023.86"
+            }
+        ]
+    },
+    {
+        "id": "5d12da79-b7c5-4bb7-89ec-98ecd2f70da0",
+        "image": "5d12da79-b7c5-4bb7-89ec-98ecd2f70da0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $259.95"
+            }
+        ]
+    },
+    {
+        "id": "1532474f-6b2d-4c0f-b8be-936e5f85a85f",
+        "image": "1532474f-6b2d-4c0f-b8be-936e5f85a85f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $82.49"
+            }
+        ]
+    },
+    {
+        "id": "e9624ad9-c878-4453-a595-2b7451947371",
+        "image": "e9624ad9-c878-4453-a595-2b7451947371.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $705.92"
+            }
+        ]
+    },
+    {
+        "id": "b8ed6aef-f936-4e50-93a1-bf18c18f145c",
+        "image": "b8ed6aef-f936-4e50-93a1-bf18c18f145c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $17.10"
+            }
+        ]
+    },
+    {
+        "id": "856d44b7-09bc-4768-9e80-b4de15765f3e",
+        "image": "856d44b7-09bc-4768-9e80-b4de15765f3e.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $37551.65"
+            }
+        ]
+    },
+    {
+        "id": "95eea87a-da5b-41b9-b0a4-c2f3a98def91",
+        "image": "95eea87a-da5b-41b9-b0a4-c2f3a98def91.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $25014.50"
+            }
+        ]
+    },
+    {
+        "id": "93b35a3d-b1c6-4c96-a405-eeb8f6e9b415",
+        "image": "93b35a3d-b1c6-4c96-a405-eeb8f6e9b415.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $5.59"
+            }
+        ]
+    },
+    {
+        "id": "6ce6975e-06ab-4c63-9a0a-4d5a7e751aca",
+        "image": "6ce6975e-06ab-4c63-9a0a-4d5a7e751aca.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $207.89"
+            }
+        ]
+    },
+    {
+        "id": "b1d73320-e61f-4821-bde1-7a1b227a3ae4",
+        "image": "b1d73320-e61f-4821-bde1-7a1b227a3ae4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $475.10"
+            }
+        ]
+    },
+    {
+        "id": "bc1d747b-97db-412f-8b78-73a5b0be50cf",
+        "image": "bc1d747b-97db-412f-8b78-73a5b0be50cf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $53.64"
+            }
+        ]
+    },
+    {
+        "id": "7401fe30-3972-4d7c-b7ef-426275eae446",
+        "image": "7401fe30-3972-4d7c-b7ef-426275eae446.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $89.62"
+            }
+        ]
+    },
+    {
+        "id": "7ddfd8c9-fae3-46de-a6ff-2b1938ad8b71",
+        "image": "7ddfd8c9-fae3-46de-a6ff-2b1938ad8b71.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $112.52"
+            }
+        ]
+    },
+    {
+        "id": "d0553f61-67ad-41f2-8f9c-64582dad191f",
+        "image": "d0553f61-67ad-41f2-8f9c-64582dad191f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $1821.48 "
+            }
+        ]
+    },
+    {
+        "id": "b36a6619-b2e8-4387-bd73-424e340895eb",
+        "image": "b36a6619-b2e8-4387-bd73-424e340895eb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $176.87"
+            }
+        ]
+    },
+    {
+        "id": "40ca08cd-45da-40c8-a087-8545a695f18a",
+        "image": "40ca08cd-45da-40c8-a087-8545a695f18a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $651.30"
+            }
+        ]
+    },
+    {
+        "id": "9ae54e0b-94c6-48ea-94f0-a959809d9f7a",
+        "image": "9ae54e0b-94c6-48ea-94f0-a959809d9f7a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $32.95"
+            }
+        ]
+    },
+    {
+        "id": "66abb137-d468-44a2-9733-d87a00088e8f",
+        "image": "66abb137-d468-44a2-9733-d87a00088e8f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $2623.28 "
+            }
+        ]
+    },
+    {
+        "id": "c3870c15-2ab4-441b-8420-f56e0d247c4b",
+        "image": "c3870c15-2ab4-441b-8420-f56e0d247c4b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $2858.84"
+            }
+        ]
+    },
+    {
+        "id": "f6da0b87-79bb-4854-b3ce-79810450b584",
+        "image": "f6da0b87-79bb-4854-b3ce-79810450b584.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $302.58"
+            }
+        ]
+    },
+    {
+        "id": "d8e49c3e-9850-49d4-a0c9-78f962c359e7",
+        "image": "d8e49c3e-9850-49d4-a0c9-78f962c359e7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $7589.84"
+            }
+        ]
+    },
+    {
+        "id": "d209d6ee-7759-4b0e-bf29-1ea96178d2b3",
+        "image": "d209d6ee-7759-4b0e-bf29-1ea96178d2b3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $61568.50"
+            }
+        ]
+    },
+    {
+        "id": "49f19b66-9165-4b05-a3c0-f3924df12ec5",
+        "image": "49f19b66-9165-4b05-a3c0-f3924df12ec5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $63.17"
+            }
+        ]
+    },
+    {
+        "id": "8186c593-5de1-4359-a223-645413e2dfa6",
+        "image": "8186c593-5de1-4359-a223-645413e2dfa6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $455.68 "
+            }
+        ]
+    },
+    {
+        "id": "56977728-9cf4-499b-84c0-a595cf0dbacc",
+        "image": "56977728-9cf4-499b-84c0-a595cf0dbacc.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $717.45"
+            }
+        ]
+    },
+    {
+        "id": "6ca52abc-2014-4668-8222-7b8b3042e509",
+        "image": "6ca52abc-2014-4668-8222-7b8b3042e509.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $34501.86"
+            }
+        ]
+    },
+    {
+        "id": "d66bbec7-8194-450a-8b02-7e9f09c2e74c",
+        "image": "d66bbec7-8194-450a-8b02-7e9f09c2e74c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $12.11"
+            }
+        ]
+    },
+    {
+        "id": "452090f8-3926-424d-b2d3-5175e2132489",
+        "image": "452090f8-3926-424d-b2d3-5175e2132489.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $10.79"
+            }
+        ]
+    },
+    {
+        "id": "c25f245a-365a-4fc1-94d9-e4c2df72cb36",
+        "image": "c25f245a-365a-4fc1-94d9-e4c2df72cb36.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $13.47"
+            }
+        ]
+    },
+    {
+        "id": "b9d91a45-86ab-46a7-9c07-0e321c60c867",
+        "image": "b9d91a45-86ab-46a7-9c07-0e321c60c867.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $15.80"
+            }
+        ]
+    },
+    {
+        "id": "6d3ec9eb-d7e8-4359-b68f-eb64c425925d",
+        "image": "6d3ec9eb-d7e8-4359-b68f-eb64c425925d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $675.75"
+            }
+        ]
+    },
+    {
+        "id": "9d6a59e0-631b-40aa-8771-fb817448ec4c",
+        "image": "9d6a59e0-631b-40aa-8771-fb817448ec4c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $959.99"
+            }
+        ]
+    },
+    {
+        "id": "8e57247b-5fdd-48fd-b798-66e76efd47b7",
+        "image": "8e57247b-5fdd-48fd-b798-66e76efd47b7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $126.23"
+            }
+        ]
+    },
+    {
+        "id": "04f049dd-3aa0-480d-92bc-7590eca06575",
+        "image": "04f049dd-3aa0-480d-92bc-7590eca06575.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $192.50"
+            }
+        ]
+    },
+    {
+        "id": "19a3ef96-8891-4e36-b54e-07a83d939144",
+        "image": "19a3ef96-8891-4e36-b54e-07a83d939144.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $53572.82"
+            }
+        ]
+    },
+    {
+        "id": "71ec3df2-a184-407f-99da-0b478c40fb6a",
+        "image": "71ec3df2-a184-407f-99da-0b478c40fb6a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $268.49"
+            }
+        ]
+    },
+    {
+        "id": "e1d4b494-d8ce-46ce-bb6b-5116f7f0d093",
+        "image": "e1d4b494-d8ce-46ce-bb6b-5116f7f0d093.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $768.08"
+            }
+        ]
+    },
+    {
+        "id": "c424c270-130a-4c03-9955-3016ac9f3bab",
+        "image": "c424c270-130a-4c03-9955-3016ac9f3bab.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $5873.90 "
+            }
+        ]
+    },
+    {
+        "id": "80b7a5a2-99c9-433b-9362-d7569ed18d72",
+        "image": "80b7a5a2-99c9-433b-9362-d7569ed18d72.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $330"
+            }
+        ]
+    },
+    {
+        "id": "b104c321-9b4c-43f3-8b81-bdd080368d01",
+        "image": "b104c321-9b4c-43f3-8b81-bdd080368d01.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $855"
+            }
+        ]
+    },
+    {
+        "id": "8af5417e-b8d4-4ac0-9e48-7a6369b92522",
+        "image": "8af5417e-b8d4-4ac0-9e48-7a6369b92522.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $49.65"
+            }
+        ]
+    },
+    {
+        "id": "06a94cf2-03e6-4493-8d99-8cbe3f74a6f7",
+        "image": "06a94cf2-03e6-4493-8d99-8cbe3f74a6f7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $11.99"
+            }
+        ]
+    },
+    {
+        "id": "3cf905e7-802c-403b-8b4c-e45569d97943",
+        "image": "3cf905e7-802c-403b-8b4c-e45569d97943.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $91.88"
+            }
+        ]
+    },
+    {
+        "id": "75d29b17-7c62-4c73-9674-37e6c50960dc",
+        "image": "75d29b17-7c62-4c73-9674-37e6c50960dc.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $16.28"
+            }
+        ]
+    },
+    {
+        "id": "95ad346e-bab6-4a9d-b52e-3bd8a991df59",
+        "image": "95ad346e-bab6-4a9d-b52e-3bd8a991df59.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $675.00"
+            }
+        ]
+    },
+    {
+        "id": "32732ba7-1fef-4561-bbf2-59b0c585fbc9",
+        "image": "32732ba7-1fef-4561-bbf2-59b0c585fbc9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $757.50"
+            }
+        ]
+    },
+    {
+        "id": "e24144f3-014d-4259-9b47-40de0e2d20ab",
+        "image": "e24144f3-014d-4259-9b47-40de0e2d20ab.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $270.64 "
+            }
+        ]
+    },
+    {
+        "id": "79827924-ec3a-4160-bc73-84df9a591de4",
+        "image": "79827924-ec3a-4160-bc73-84df9a591de4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $36305.25"
+            }
+        ]
+    },
+    {
+        "id": "bb57bdee-3acd-47f0-ac13-0da8ab02c231",
+        "image": "bb57bdee-3acd-47f0-ac13-0da8ab02c231.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $520"
+            }
+        ]
+    },
+    {
+        "id": "dfe9cf98-be68-41b9-b3ae-0be2b22dc56d",
+        "image": "dfe9cf98-be68-41b9-b3ae-0be2b22dc56d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $1023.75"
+            }
+        ]
+    },
+    {
+        "id": "cac0d8eb-a923-4b5c-a154-9e3bd494afbe",
+        "image": "cac0d8eb-a923-4b5c-a154-9e3bd494afbe.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $69.13"
+            }
+        ]
+    },
+    {
+        "id": "4f033458-41aa-40f0-8c3c-4ca1bbe5eed4",
+        "image": "4f033458-41aa-40f0-8c3c-4ca1bbe5eed4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $564.99"
+            }
+        ]
+    },
+    {
+        "id": "e43ad676-3893-4446-8ac3-406268ce2a61",
+        "image": "e43ad676-3893-4446-8ac3-406268ce2a61.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $10.76"
+            }
+        ]
+    },
+    {
+        "id": "b190623f-c9ba-4b70-8482-f28bc1be8b96",
+        "image": "b190623f-c9ba-4b70-8482-f28bc1be8b96.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $15.40"
+            }
+        ]
+    },
+    {
+        "id": "626d519e-a7e0-4b8f-8dd4-82c9ce49d016",
+        "image": "626d519e-a7e0-4b8f-8dd4-82c9ce49d016.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $69.86"
+            }
+        ]
+    },
+    {
+        "id": "af262034-beb1-48e0-8726-c0f391b3a30b",
+        "image": "af262034-beb1-48e0-8726-c0f391b3a30b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $8.98"
+            }
+        ]
+    },
+    {
+        "id": "50a1f86e-e6ef-4179-bd2f-e6eb18f5cb5f",
+        "image": "50a1f86e-e6ef-4179-bd2f-e6eb18f5cb5f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $74.23"
+            }
+        ]
+    },
+    {
+        "id": "97c0e6ac-4939-4727-84e4-fb8c04f72749",
+        "image": "97c0e6ac-4939-4727-84e4-fb8c04f72749.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $547.76 "
+            }
+        ]
+    },
+    {
+        "id": "7622f02d-1204-439e-9ca3-d4bfc96ad563",
+        "image": "7622f02d-1204-439e-9ca3-d4bfc96ad563.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $42.07"
+            }
+        ]
+    },
+    {
+        "id": "a19f8c5b-79cd-40ac-82c9-19eed34b5528",
+        "image": "a19f8c5b-79cd-40ac-82c9-19eed34b5528.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $56.78"
+            }
+        ]
+    },
+    {
+        "id": "02437d7c-60e6-45c4-854f-95b188a26664",
+        "image": "02437d7c-60e6-45c4-854f-95b188a26664.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $43.06"
+            }
+        ]
+    },
+    {
+        "id": "3a98b9ed-b827-4cef-b3bd-dc97d75bab75",
+        "image": "3a98b9ed-b827-4cef-b3bd-dc97d75bab75.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $8134.09"
+            }
+        ]
+    },
+    {
+        "id": "6dbb5fa4-8114-41e5-a0db-8dede8451b56",
+        "image": "6dbb5fa4-8114-41e5-a0db-8dede8451b56.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $50.90"
+            }
+        ]
+    },
+    {
+        "id": "e91afb3b-3d9d-4111-9791-1023ab5197a7",
+        "image": "e91afb3b-3d9d-4111-9791-1023ab5197a7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $7.30"
+            }
+        ]
+    },
+    {
+        "id": "0883d061-a495-4497-bfe6-1ad113793219",
+        "image": "0883d061-a495-4497-bfe6-1ad113793219.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $1021.82"
+            }
+        ]
+    },
+    {
+        "id": "8d1c4468-916d-4fa2-bf59-9c0cdc1a78ec",
+        "image": "8d1c4468-916d-4fa2-bf59-9c0cdc1a78ec.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $94435.43"
+            }
+        ]
+    },
+    {
+        "id": "633c8070-7e58-4fff-909f-a6afae02e90e",
+        "image": "633c8070-7e58-4fff-909f-a6afae02e90e.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $793.38"
+            }
+        ]
+    },
+    {
+        "id": "38bf7a72-b1b7-4c69-b1d0-c682ded42f5a",
+        "image": "38bf7a72-b1b7-4c69-b1d0-c682ded42f5a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $4651.38 "
+            }
+        ]
+    },
+    {
+        "id": "649d76d0-175e-412e-a9b9-76b201445dfc",
+        "image": "649d76d0-175e-412e-a9b9-76b201445dfc.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $1330.70"
+            }
+        ]
+    },
+    {
+        "id": "1caa269c-50b0-4b41-9b9d-604390908e6d",
+        "image": "1caa269c-50b0-4b41-9b9d-604390908e6d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $720.00"
+            }
+        ]
+    },
+    {
+        "id": "b5c402d3-49ef-41b4-8a5e-e94c51a9832d",
+        "image": "b5c402d3-49ef-41b4-8a5e-e94c51a9832d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $118.94"
+            }
+        ]
+    },
+    {
+        "id": "9b63b107-16c5-4b64-87ff-7a5ef80adb45",
+        "image": "9b63b107-16c5-4b64-87ff-7a5ef80adb45.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $3956.67"
+            }
+        ]
+    },
+    {
+        "id": "f24d9bb8-cc3c-4d3c-a770-6565a98c7810",
+        "image": "f24d9bb8-cc3c-4d3c-a770-6565a98c7810.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $21089.90"
+            }
+        ]
+    },
+    {
+        "id": "b43f98a1-e64b-4aca-8350-df8ac9911633",
+        "image": "b43f98a1-e64b-4aca-8350-df8ac9911633.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $4778.22"
+            }
+        ]
+    },
+    {
+        "id": "51114ede-8094-426f-809f-520fe73841f4",
+        "image": "51114ede-8094-426f-809f-520fe73841f4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $5333.43"
+            }
+        ]
+    },
+    {
+        "id": "a8993471-3fcb-4b2a-9373-c8fdb69b37ed",
+        "image": "a8993471-3fcb-4b2a-9373-c8fdb69b37ed.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $489.70"
+            }
+        ]
+    },
+    {
+        "id": "ae56a561-8cf6-4767-8693-ecd1887dc6b1",
+        "image": "ae56a561-8cf6-4767-8693-ecd1887dc6b1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $3.41"
+            }
+        ]
+    },
+    {
+        "id": "5d703464-2bdf-464a-bf7e-94b7c2dc1377",
+        "image": "5d703464-2bdf-464a-bf7e-94b7c2dc1377.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $159.95"
+            }
+        ]
+    },
+    {
+        "id": "413e9afa-e52c-4ced-a40f-04532138b18f",
+        "image": "413e9afa-e52c-4ced-a40f-04532138b18f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $27.41"
+            }
+        ]
+    },
+    {
+        "id": "51128af5-2d38-413c-90d8-35ff59883884",
+        "image": "51128af5-2d38-413c-90d8-35ff59883884.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $3002.98 "
+            }
+        ]
+    },
+    {
+        "id": "959a6fed-430e-4c7f-86f6-d0c9915c07c3",
+        "image": "959a6fed-430e-4c7f-86f6-d0c9915c07c3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $70.65"
+            }
+        ]
+    },
+    {
+        "id": "17000914-56e5-4473-a934-093df52742bd",
+        "image": "17000914-56e5-4473-a934-093df52742bd.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $26857.35"
+            }
+        ]
+    },
+    {
+        "id": "0c7bb478-39a8-463b-bf8a-a1b9de8b1bd9",
+        "image": "0c7bb478-39a8-463b-bf8a-a1b9de8b1bd9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $299.92"
+            }
+        ]
+    },
+    {
+        "id": "459f2af7-d625-40f8-865c-92604ddbb340",
+        "image": "459f2af7-d625-40f8-865c-92604ddbb340.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $555.37"
+            }
+        ]
+    },
+    {
+        "id": "a668ba75-752f-4f30-95e1-78a2d816274a",
+        "image": "a668ba75-752f-4f30-95e1-78a2d816274a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $1209.97"
+            }
+        ]
+    },
+    {
+        "id": "a7191cae-d3eb-409e-bc60-4944051c71f8",
+        "image": "a7191cae-d3eb-409e-bc60-4944051c71f8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $1054.10"
+            }
+        ]
+    },
+    {
+        "id": "b7fa995a-3474-4c38-9ad0-746807d0c62c",
+        "image": "b7fa995a-3474-4c38-9ad0-746807d0c62c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $21.75"
+            }
+        ]
+    },
+    {
+        "id": "9cded2d6-a7bd-4018-8576-fa736ead97af",
+        "image": "9cded2d6-a7bd-4018-8576-fa736ead97af.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $389.85"
+            }
+        ]
+    },
+    {
+        "id": "d1678cae-69d9-4195-8de4-05553cbf03cd",
+        "image": "d1678cae-69d9-4195-8de4-05553cbf03cd.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $12.91"
+            }
+        ]
+    },
+    {
+        "id": "25c1fca5-55d6-48ad-9bcd-4855a2b3eb11",
+        "image": "25c1fca5-55d6-48ad-9bcd-4855a2b3eb11.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $166.91 "
+            }
+        ]
+    },
+    {
+        "id": "2ec33e0d-b9d0-4180-9340-b48d9bc9cb57",
+        "image": "2ec33e0d-b9d0-4180-9340-b48d9bc9cb57.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $3900.00"
+            }
+        ]
+    },
+    {
+        "id": "d954b0e5-dc70-4597-a40b-b75bdd532d92",
+        "image": "d954b0e5-dc70-4597-a40b-b75bdd532d92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $8389.96"
+            }
+        ]
+    },
+    {
+        "id": "4d567d3d-614d-402d-bf90-069e4b9a073b",
+        "image": "4d567d3d-614d-402d-bf90-069e4b9a073b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $250.49"
+            }
+        ]
+    },
+    {
+        "id": "2ff89c41-97a7-4ddc-b35f-3bb90350dead",
+        "image": "2ff89c41-97a7-4ddc-b35f-3bb90350dead.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $26.38 "
+            }
+        ]
+    },
+    {
+        "id": "2afcd749-d9a6-41df-aea4-2c62741d19c6",
+        "image": "2afcd749-d9a6-41df-aea4-2c62741d19c6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $43.98"
+            }
+        ]
+    },
+    {
+        "id": "b8ebffff-2a3c-4463-a913-86c0e67fa26f",
+        "image": "b8ebffff-2a3c-4463-a913-86c0e67fa26f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $130.84"
+            }
+        ]
+    },
+    {
+        "id": "2df273b0-75e4-4ef0-8eb6-c0ea81978106",
+        "image": "2df273b0-75e4-4ef0-8eb6-c0ea81978106.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $5318.82"
+            }
+        ]
+    },
+    {
+        "id": "31550784-37f6-44c1-83da-cc2617e48d6a",
+        "image": "31550784-37f6-44c1-83da-cc2617e48d6a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $177.55"
+            }
+        ]
+    },
+    {
+        "id": "7df50c8a-3ecb-4ef2-854f-415d35daab80",
+        "image": "7df50c8a-3ecb-4ef2-854f-415d35daab80.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $58.80"
+            }
+        ]
+    },
+    {
+        "id": "cf0139e8-77ae-45e6-8e2a-946d7b14b3bc",
+        "image": "cf0139e8-77ae-45e6-8e2a-946d7b14b3bc.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $13615.09 "
+            }
+        ]
+    },
+    {
+        "id": "74daf930-8811-4184-9df3-07675d50872f",
+        "image": "74daf930-8811-4184-9df3-07675d50872f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $4729.96"
+            }
+        ]
+    },
+    {
+        "id": "a3a4a035-5a2e-42e7-9075-359c3dce834a",
+        "image": "a3a4a035-5a2e-42e7-9075-359c3dce834a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $13555.04"
+            }
+        ]
+    },
+    {
+        "id": "1a61fa2f-2718-4e3a-a2c4-b1009dfa43a2",
+        "image": "1a61fa2f-2718-4e3a-a2c4-b1009dfa43a2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $5294.47"
+            }
+        ]
+    },
+    {
+        "id": "1d9012ec-b629-4008-821e-e7323a23efa5",
+        "image": "1d9012ec-b629-4008-821e-e7323a23efa5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $835.99"
+            }
+        ]
+    },
+    {
+        "id": "7d30e7b5-2ed0-4252-a014-296983b732d0",
+        "image": "7d30e7b5-2ed0-4252-a014-296983b732d0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $24.63"
+            }
+        ]
+    },
+    {
+        "id": "9499546d-7dbc-4a4a-849c-a861aee18f8f",
+        "image": "9499546d-7dbc-4a4a-849c-a861aee18f8f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $1319.96 "
+            }
+        ]
+    },
+    {
+        "id": "e7be0799-8642-48c6-8d02-9c86cd2eb85a",
+        "image": "e7be0799-8642-48c6-8d02-9c86cd2eb85a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $33.20"
+            }
+        ]
+    },
+    {
+        "id": "bcc33c82-8ccb-48a1-925c-7ecb20ff2408",
+        "image": "bcc33c82-8ccb-48a1-925c-7ecb20ff2408.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $797.23 "
+            }
+        ]
+    },
+    {
+        "id": "ebbff9c2-df6a-4efe-ab16-2834c9461ceb",
+        "image": "ebbff9c2-df6a-4efe-ab16-2834c9461ceb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $181.09"
+            }
+        ]
+    },
+    {
+        "id": "5066ba0d-a1fd-4e25-9487-abbcdf4c7897",
+        "image": "5066ba0d-a1fd-4e25-9487-abbcdf4c7897.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is 483.83"
+            }
+        ]
+    },
+    {
+        "id": "0a1e7e3e-37ef-4e9a-be52-cbf64814c8f1",
+        "image": "0a1e7e3e-37ef-4e9a-be52-cbf64814c8f1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $254.97"
+            }
+        ]
+    },
+    {
+        "id": "de1e0b23-a660-47a6-9c01-0d044f94880c",
+        "image": "de1e0b23-a660-47a6-9c01-0d044f94880c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $2545.48"
+            }
+        ]
+    },
+    {
+        "id": "843fcb42-a795-4cb9-b9ee-cdc9462f9b2d",
+        "image": "843fcb42-a795-4cb9-b9ee-cdc9462f9b2d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $39000"
+            }
+        ]
+    },
+    {
+        "id": "c5267b65-bc5c-402a-a610-07df4843eb58",
+        "image": "c5267b65-bc5c-402a-a610-07df4843eb58.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $83.89"
+            }
+        ]
+    },
+    {
+        "id": "0765d77a-6a3e-4e7c-b3f4-83fe38268d12",
+        "image": "0765d77a-6a3e-4e7c-b3f4-83fe38268d12.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $661.64"
+            }
+        ]
+    },
+    {
+        "id": "20c4d66a-e08d-4dde-a765-dbd072fcebd5",
+        "image": "20c4d66a-e08d-4dde-a765-dbd072fcebd5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $1024.40"
+            }
+        ]
+    },
+    {
+        "id": "61f348b3-067a-4b13-adce-cfef3dc4452d",
+        "image": "61f348b3-067a-4b13-adce-cfef3dc4452d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $93.00"
+            }
+        ]
+    },
+    {
+        "id": "a4f6a366-e521-4b71-8014-5ad33d8fd2bc",
+        "image": "a4f6a366-e521-4b71-8014-5ad33d8fd2bc.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $630.54"
+            }
+        ]
+    },
+    {
+        "id": "957b503e-0b2b-4d65-bc82-da0b0ef84486",
+        "image": "957b503e-0b2b-4d65-bc82-da0b0ef84486.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $428.35 "
+            }
+        ]
+    },
+    {
+        "id": "fb7c0871-d535-4401-8de5-4bc6bf9f6188",
+        "image": "fb7c0871-d535-4401-8de5-4bc6bf9f6188.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $195.48"
+            }
+        ]
+    },
+    {
+        "id": "0393f055-6c5e-4d38-97b6-d361fb8da59b",
+        "image": "0393f055-6c5e-4d38-97b6-d361fb8da59b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $3223.03"
+            }
+        ]
+    },
+    {
+        "id": "f0f9c051-227a-4145-bf91-810426e817bc",
+        "image": "f0f9c051-227a-4145-bf91-810426e817bc.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $26.88"
+            }
+        ]
+    },
+    {
+        "id": "2d265063-2d22-48a0-8bc7-7aea77924ddc",
+        "image": "2d265063-2d22-48a0-8bc7-7aea77924ddc.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $645.12"
+            }
+        ]
+    },
+    {
+        "id": "39fd41bf-e3f2-419d-9b11-37dc87695afa",
+        "image": "39fd41bf-e3f2-419d-9b11-37dc87695afa.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $3462.43"
+            }
+        ]
+    },
+    {
+        "id": "ca4cfd2a-0492-4a9d-868d-885834afaef5",
+        "image": "ca4cfd2a-0492-4a9d-868d-885834afaef5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $74.46"
+            }
+        ]
+    },
+    {
+        "id": "cd638d5a-8c0f-4f24-badc-3310402d5680",
+        "image": "cd638d5a-8c0f-4f24-badc-3310402d5680.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $66.58"
+            }
+        ]
+    },
+    {
+        "id": "42f2041b-3193-47c5-ac07-31be935a7bf5",
+        "image": "42f2041b-3193-47c5-ac07-31be935a7bf5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $11794.44"
+            }
+        ]
+    },
+    {
+        "id": "43d8ef54-986a-4cf4-b90b-b8f3deebaa8e",
+        "image": "43d8ef54-986a-4cf4-b90b-b8f3deebaa8e.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $5975.75"
+            }
+        ]
+    },
+    {
+        "id": "7c254e6b-bf04-4b69-8f2e-62e371e8ce4a",
+        "image": "7c254e6b-bf04-4b69-8f2e-62e371e8ce4a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $4963.41"
+            }
+        ]
+    },
+    {
+        "id": "9f76cec7-7836-4b02-8f50-ad531b3f905b",
+        "image": "9f76cec7-7836-4b02-8f50-ad531b3f905b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $1335.86"
+            }
+        ]
+    },
+    {
+        "id": "2b88b12b-ce78-4163-a4b0-273695f1d969",
+        "image": "2b88b12b-ce78-4163-a4b0-273695f1d969.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $7160.71"
+            }
+        ]
+    },
+    {
+        "id": "50b1fea8-a227-4eff-bb00-1b2c9458e2de",
+        "image": "50b1fea8-a227-4eff-bb00-1b2c9458e2de.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $40.19"
+            }
+        ]
+    },
+    {
+        "id": "8a6b8ab1-4576-45d4-977b-cf5c2b563e15",
+        "image": "8a6b8ab1-4576-45d4-977b-cf5c2b563e15.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $46937.53"
+            }
+        ]
+    },
+    {
+        "id": "d18c78f8-04c2-46e8-83af-e03dc425059f",
+        "image": "d18c78f8-04c2-46e8-83af-e03dc425059f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $171.01"
+            }
+        ]
+    },
+    {
+        "id": "5c7c84a8-6bad-44e8-85fc-81c6f6c73645",
+        "image": "5c7c84a8-6bad-44e8-85fc-81c6f6c73645.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $450.74"
+            }
+        ]
+    },
+    {
+        "id": "89cab1a6-6508-4116-a59c-90f5af2b2db9",
+        "image": "89cab1a6-6508-4116-a59c-90f5af2b2db9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $1661.93"
+            }
+        ]
+    },
+    {
+        "id": "98e58933-8c80-4a86-ac79-61845d3720fb",
+        "image": "98e58933-8c80-4a86-ac79-61845d3720fb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $9256.59"
+            }
+        ]
+    },
+    {
+        "id": "e3c37864-0b6e-46ca-8ffa-32f188d34daf",
+        "image": "e3c37864-0b6e-46ca-8ffa-32f188d34daf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $2667.91"
+            }
+        ]
+    },
+    {
+        "id": "4e06c510-5855-4f72-a2ed-f7fdb6e774ea",
+        "image": "4e06c510-5855-4f72-a2ed-f7fdb6e774ea.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $19228.78"
+            }
+        ]
+    },
+    {
+        "id": "09afc3e8-40c1-4904-8697-5713c538b43a",
+        "image": "09afc3e8-40c1-4904-8697-5713c538b43a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $339.98"
+            }
+        ]
+    },
+    {
+        "id": "13ceb2da-a196-4334-9179-b9568d7621eb",
+        "image": "13ceb2da-a196-4334-9179-b9568d7621eb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $12203.09"
+            }
+        ]
+    },
+    {
+        "id": "d59c1d50-22d2-441a-bb59-edd43149d371",
+        "image": "d59c1d50-22d2-441a-bb59-edd43149d371.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $237.49"
+            }
+        ]
+    },
+    {
+        "id": "70fec8e9-bddc-4b88-85da-eb78b2268dbc",
+        "image": "70fec8e9-bddc-4b88-85da-eb78b2268dbc.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $194521.70"
+            }
+        ]
+    },
+    {
+        "id": "153bce09-3e44-46ad-9282-3cd22587390c",
+        "image": "153bce09-3e44-46ad-9282-3cd22587390c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $2804.92"
+            }
+        ]
+    },
+    {
+        "id": "097a2308-4ee8-4eca-b6dd-8b242b3c52c7",
+        "image": "097a2308-4ee8-4eca-b6dd-8b242b3c52c7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $48.16"
+            }
+        ]
+    },
+    {
+        "id": "e75cce61-4045-4a37-8dc5-12ab1e8d9b03",
+        "image": "e75cce61-4045-4a37-8dc5-12ab1e8d9b03.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $23399.04"
+            }
+        ]
+    },
+    {
+        "id": "a3fe06a8-e078-4699-9b71-185bf9b6d71a",
+        "image": "a3fe06a8-e078-4699-9b71-185bf9b6d71a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $221.55"
+            }
+        ]
+    },
+    {
+        "id": "7ed75f41-a831-4eaf-b366-ab9849f2712a",
+        "image": "7ed75f41-a831-4eaf-b366-ab9849f2712a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $364.30"
+            }
+        ]
+    },
+    {
+        "id": "8cc8f205-15ad-48ba-b4b6-41ce44784dcd",
+        "image": "8cc8f205-15ad-48ba-b4b6-41ce44784dcd.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $449.90"
+            }
+        ]
+    },
+    {
+        "id": "5e5e0564-e699-46d1-b3b2-86acd787572d",
+        "image": "5e5e0564-e699-46d1-b3b2-86acd787572d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $1140.91"
+            }
+        ]
+    },
+    {
+        "id": "5e82a01f-0590-4deb-8a3b-f38583e8a64d",
+        "image": "5e82a01f-0590-4deb-8a3b-f38583e8a64d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $522.15"
+            }
+        ]
+    },
+    {
+        "id": "86ef4e03-9a4b-4a68-8f2e-403cfd6133ec",
+        "image": "86ef4e03-9a4b-4a68-8f2e-403cfd6133ec.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $721.73 "
+            }
+        ]
+    },
+    {
+        "id": "b56a4b23-ba34-4e80-ba70-0ec115194260",
+        "image": "b56a4b23-ba34-4e80-ba70-0ec115194260.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the gross worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the gross worth is $309.10"
+            }
+        ]
+    },
+    {
+        "id": "99633cac-340b-44b2-9f36-e849f30483f1",
+        "image": "99633cac-340b-44b2-9f36-e849f30483f1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $140.00"
+            }
+        ]
+    },
+    {
+        "id": "5ad0f4d6-888c-4fd5-80d6-9fe096addd71",
+        "image": "5ad0f4d6-888c-4fd5-80d6-9fe096addd71.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $138.97"
+            }
+        ]
+    },
+    {
+        "id": "1b6f053b-5725-4c84-b6d8-dbddfea8dd46",
+        "image": "1b6f053b-5725-4c84-b6d8-dbddfea8dd46.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $1.96"
+            }
+        ]
+    },
+    {
+        "id": "d5025295-89bf-4937-b773-c3af29434945",
+        "image": "d5025295-89bf-4937-b773-c3af29434945.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $113.70"
+            }
+        ]
+    },
+    {
+        "id": "9d3b7fbe-98bb-4913-9bcf-98e4142b9dca",
+        "image": "9d3b7fbe-98bb-4913-9bcf-98e4142b9dca.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $295.00"
+            }
+        ]
+    },
+    {
+        "id": "0c29db4d-501d-4249-a51e-341d7197f4c8",
+        "image": "0c29db4d-501d-4249-a51e-341d7197f4c8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $377.38"
+            }
+        ]
+    },
+    {
+        "id": "b4bfba36-ee3f-42ed-ba45-b873c68501ac",
+        "image": "b4bfba36-ee3f-42ed-ba45-b873c68501ac.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $0.16"
+            }
+        ]
+    },
+    {
+        "id": "90b37a1c-fd75-4006-b114-ad7597a1f2e8",
+        "image": "90b37a1c-fd75-4006-b114-ad7597a1f2e8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the vat due?"
+            },
+            {
+                "from": "gpt",
+                "value": "the vat due is $108.23"
+            }
+        ]
+    },
+    {
+        "id": "0bbd5d16-be62-494f-80de-9893684725bc",
+        "image": "0bbd5d16-be62-494f-80de-9893684725bc.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the net worth?"
+            },
+            {
+                "from": "gpt",
+                "value": "the net worth is $140.64"
+            }
+        ]
+    }
+]
